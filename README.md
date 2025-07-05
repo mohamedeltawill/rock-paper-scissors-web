@@ -14,12 +14,3 @@ A fun and interactive Rock, Paper, Scissors game built with **Python** and **Str
 ```bash
 pip install streamlit
 streamlit run app.py
-```
-
-## 🔗 Try the App Online (after deployment)
-
-_Coming soon..._
-
-## 👤 Author
-
-Developed by [Mohamed ElTawil](https://github.com/mohamedeltawill)
